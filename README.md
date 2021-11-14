@@ -1,6 +1,6 @@
 # List of papers read for development
 
-## How to interpret black box machine learning model
+## How to interpret black-box machine learning models
 - [A Unified Approach to Interpreting Model Predictions](https://arxiv.org/abs/1705.07874)
 - [Peeking Inside the Black-Box: A Survey on Explainable Artificial Intelligence (XAI)](https://ieeexplore.ieee.org/document/8466590)
 - [A Survey of Methods for Explaining Black Box Models](https://dl.acm.org/doi/10.1145/3236009)
