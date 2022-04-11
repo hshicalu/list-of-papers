@@ -14,3 +14,7 @@
 - [3D Knapsack Problem](https://www.researchgate.net/publication/338749799_3D_Knapsack_Problem)
 - [Attention, Learn to Solve Routing Problems!](https://arxiv.org/abs/1803.08475)
 - [Neural Combinatorial Optimization with Reinforcement Learning](https://arxiv.org/abs/1611.09940)
+
+## Crypto
+- [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf)
+- [ビットコイン： P2P 電子通貨システム](https://bitcoin.org/files/bitcoin-paper/bitcoin_jp.pdf)
